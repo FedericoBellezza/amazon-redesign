@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <div className="flex gap-20 justify-between items-center bg-slate-950 px-10 py-4 text-white">
+    <div className="flex gap-20 justify-between items-center bg-slate-900 px-20 py-4 text-white Montserrat">
       <div className="w-1/4">
         <img
           className="h-9 cursor-pointer"
